@@ -2,7 +2,7 @@
 
 _JSON_ y _YAML_ son dos **formatos de serialización de datos** que proporcionan un mecanismo de intercambio de datos legible por humanos. A continuación veremos las características más importantes de cada uno y las principales diferencias.
 
-## JSON
+## [JSON](https://www.json.org/json-es.html)
 
 Se trata de un subconjunto de la notación literal de objetos de _JavaScript_, aunque, debido a su amplia adopción como alternativa a _XML_, se considera un formato independiente del lenguaje.
 
@@ -12,7 +12,7 @@ Se trata de un subconjunto de la notación literal de objetos de _JavaScript_, a
 - En _JavaScript_, un texto _JSON_ se puede analizar fácilmente usando la función `eval()`.
 - Aunque comunmente se le considere una alternativa a _XML_, se pueden usar ambos a la vez.
 
-## YAML
+## [YAML](https://yaml.org)
 
 _YAML_ es un formato de serialización de datos legible por humanos inspirado en lenguajes como _XML_, _C_, _Python_, _Perl_, así como en el formato de los correos electrónicos. Fue creado bajo la creencia de que todos los datos pueden ser representados adecuadamente como combinaciones de listas, hashes (mapeos) y datos escalares (valores simples).
 
